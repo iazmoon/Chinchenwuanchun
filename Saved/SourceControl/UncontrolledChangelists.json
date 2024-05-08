@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Jaz/Downloads/Arlechino 5.3/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Jaz/Downloads/Arlechino 5.3/Content/Monas_Chinas/MonasChinasLandia.umap",
+				"C:/Users/Jaz/Downloads/Arlechino 5.3/Content/Jazmin/Achichincle.uasset",
+				"C:/Users/Jaz/Downloads/Arlechino 5.3/Content/Jazmin/alercchino.uasset",
+				"C:/Users/Jaz/Downloads/Arlechino 5.3/Content/Jazmin/alercchino_PhysicsAsset.uasset",
+				"C:/Users/Jaz/Downloads/Arlechino 5.3/Content/Jazmin/alercchino_Skeleton.uasset",
+				"C:/Users/Jaz/Downloads/Arlechino 5.3/Content/Jazmin/body.uasset",
+				"C:/Users/Jaz/Downloads/Arlechino 5.3/Content/Jazmin/body_ncl1_2.uasset",
+				"C:/Users/Jaz/Downloads/Arlechino 5.3/Content/Jazmin/face.uasset",
+				"C:/Users/Jaz/Downloads/Arlechino 5.3/Content/Jazmin/face_ncl1_1.uasset",
+				"C:/Users/Jaz/Downloads/Arlechino 5.3/Content/Jazmin/face_ncl1_2.uasset",
+				"C:/Users/Jaz/Downloads/Arlechino 5.3/Content/Jazmin/group12_mona_jaz_2_polySurface360SG.uasset",
+				"C:/Users/Jaz/Downloads/Arlechino 5.3/Content/Jazmin/group17_polySurface434SG.uasset",
+				"C:/Users/Jaz/Downloads/Arlechino 5.3/Content/Jazmin/polySurface360SG2.uasset",
+				"C:/Users/Jaz/Downloads/Arlechino 5.3/Content/Jazmin/polySurface364SG_001.uasset",
+				"C:/Users/Jaz/Downloads/Arlechino 5.3/Content/Jazmin/polySurface397SG2.uasset",
+				"C:/Users/Jaz/Downloads/Arlechino 5.3/Content/Jazmin/polySurface417SG.uasset"
+			]
+		}
+	]
+}
